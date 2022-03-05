@@ -13,7 +13,7 @@ It contains information on 10,000 customers, with 18 features for analysis. Attr
 | Attribute | Definition |
 |-----------|------------|
 |CLIENTNUM | Unique identifier for the client|
-|Attrition_Flag| 1 = closed account|
+|Attrition_Flag| Attrited or Existing|
 |Customer_Age| Customer's age in years|
 |Gender| M/F|
 |Dependent_Count|Number of dependents|
