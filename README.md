@@ -5,7 +5,6 @@ Part of Applied Data Science with Machine Learning Bootcamp
 Customer acquisition is usually more costly to the business than retaining an existing customer. In this EDA we look at churn data for credit card customers, to analyze the possible factors involved in churn, for the bank to have actionable insights.
 
 EDA will not be using ML techniques.
-<img src="https://media0.giphy.com/media/kt6rktnml8cPSdpHF9/giphy.gif">
 
 ### Data
 Data set is acquired from https://www.kaggle.com/sakshigoyal7/credit-card-customers
